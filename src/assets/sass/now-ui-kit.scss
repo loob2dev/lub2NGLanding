@@ -1,22 +1,5 @@
-/*!
-
-=========================================================
-* Now UI Kit Angular - v1.3.0
-=========================================================
-
-* Product Page: https://www.creative-tim.com/product/now-ui-kit-angular
-* Copyright 2020 Creative Tim (https://www.creative-tim.com)
-* Licensed under MIT (https://github.com/creativetimofficial/now-ui-kit-angular/blob/master/LICENSE.md)
-
-* Coded by Creative Tim
-
-=========================================================
-
-* The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
-
-*/
-@import 'now-ui-kit/variables';
-@import 'now-ui-kit/mixins';
+@import "now-ui-kit/variables";
+@import "now-ui-kit/mixins";
 
 // Plugins CSS
 @import "now-ui-kit/plugins/plugin-bootstrap-switch";
@@ -51,6 +34,5 @@
 // example pages and sections
 @import "now-ui-kit/example-pages";
 @import "now-ui-kit/sections";
-
 
 @import "now-ui-kit/responsive";

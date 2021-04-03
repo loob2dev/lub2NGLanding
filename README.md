@@ -4,7 +4,7 @@
 
 ## Live demo
 
-Check the live demo here 👉️ [https://lubngadmin.web.app/](https://lubngadmin.web.app/)
+Check the live demo here 👉️ [https://lub2nglanding.web.app/](https://lub2nglanding.web.app/)
 
 ## Based on
 
@@ -13,7 +13,7 @@ Angular 7+, Angular CLI, TypeScript, Scss, Bootstrap 3
 ## Getting started
 
 ```
-git clone https://github.com/bknds/ng-pi-admin.git
+git clone https://github.com/lub2code/lub2NGLanding.git
 
 npm install
 
